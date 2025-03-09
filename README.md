@@ -35,7 +35,7 @@ cd DomDev-Code-Editor
 
 Here’s what the **DomDev Code Editor** looks like in action:  
 
-![DomDev Code Editor Preview](https://domgpt.hec.to/codeeditor/)  
+![DomDev Code Editor Preview](https://github.com/domdevofficial/DomDev-Code-Editor/blob/8acf620f4fc11856d61cdaa6fd7e02cced7f6e4f/assets/IMG_20250309_084917.jpg)  
 
 
 ---
